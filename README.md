@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Geostory
+Repository for the project of the exam of  Electronic Publishing and Digital Storytelling held by Professor Marilena Daquino, within the Digital Humanities and Digital Knowledge course at the University of Bologna.
 
-You can use the [editor on GitHub](https://github.com/Geostory-Artelling/geostory/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Check the website<link al sito> of the project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Check the jupyter notebook of the project: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/massgiulia13/geostory/HEAD)
+## Abstract
+Geostory is a geospatial analysis of art historian’s birthplace/country of citizenship in relation to the period they studied among different institutions from a distributional point of view. The aim is to find out which factors influence the most art historians in the choice of the artistic period to study. 
 
-### Markdown
+### Research questions
+- Where do the art historians come from? What is the citizenship of each art historian and how many art historians came from each country?
+- Which are the most studied artistic periods by art historians?
+- What are the institutes present in Artchives? In which country and city are they located?
+- What are the collections created by each historian and how many of them can be found in the institutes? 
+- How many artistic periods are treated/curated in each collection?
+- What is the most studied artistic period per number of collections kept in each institute? 
+- Is there a relation between the country of birth or citizenship of the art historians and the artistic period they decided to study? Is there a relation between the location of the institutes in which their collections are kept and the artistic periods they curated?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Team
+Giulia Massimino: knowledge extraction, data cleaning and analysis, data visualization.
 
-# Header 1
-## Header 2
-### Header 3
+Ariele Santello : knowledge extraction,data analysis, data visualization, web design.
 
-- Bulleted
-- List
+Benedetta Togni: data cleaning, data analysis, data visualization, storytelling.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Geostory-Artelling/geostory/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Szilvia Baràth: Digital storytelling, web design, communication.
+   
+## Credits
+ARTchives data are available under CC0 license which enables scientists, educators, artists and other creators and owners of copyright- or database-protected content to waive those interests in their works and thereby place them as completely as possible in the public domain, so that others may freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law. We integrated also data of Wikidata which is also under CC0 license.
